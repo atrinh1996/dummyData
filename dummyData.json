@@ -1,0 +1,28 @@
+[
+    {
+        "acct":123456789123 ,
+        "deviceQty": 0,
+        "devices": []
+    },
+    {
+        "acct": 472829601370,
+        "deviceQty": 0,
+        "devices": []
+    },
+    {
+        "acct": 537040840477,
+        "deviceQty": 2,
+        "devices": [
+            {
+                "name": "John Doe",
+                "number": "(512) 465-8396",
+                "extension": "118"
+            },
+            {
+                "name": "Jane Doe",
+                "number": "(303) 203-4389",
+                "extension": "119"
+            }
+        ]
+    }
+]
