@@ -1,0 +1,48 @@
+{
+    "GetBanInfoResponse": {
+        "totalNumberOfRecords": "107",
+        "hasMoreRecordsInd": "Y",
+        "BanDetails": [
+            {
+                "ban": "12345678",
+                "partnerName": "ABC123",
+                "companyId": "ABC12",
+                "tier": "123"
+            },
+            {
+                "ban": "6789012",
+                "partnerName": "XYZ10",
+                "companyId": "23ABC",
+                "tier": "12AB"
+            },
+            {
+                "ban": "123456789123",
+                "partnerName": "John Doe",
+                "companyId": "JD123",
+                "tier": "123"
+            },
+            {
+                "ban": "472829601370",
+                "partnerName": "Jane Doe",
+                "companyId": "JD456",
+                "tier": "123"
+            },
+            {
+                "ban": "537040840477",
+                "partnerName": "Jumbo Elephant",
+                "companyId": "JE123",
+                "tier": "12AB"
+            },
+            {
+                "ban": "728687122510",
+                "partnerName": "Bruce Wayne",
+                "companyId": "BW123",
+                "tier": "45CD"
+            }
+        ],
+        "Response": {
+            "code": "200",
+            "description": "Success"
+        }
+    }
+}
