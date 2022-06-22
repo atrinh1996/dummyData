@@ -10,4 +10,4 @@ Miscellaneous free resources used to generate different types of data.
 
 ## Data to view
 - [dummyData](https://atrinh1996.github.io/dummyData/dummyData.json)
-- [MockData](https://atrinh1996.github.io/dummyData/MockDataUID.json)
+- [MockData](https://atrinh1996.github.io/dummyData/MockDataUID.json) 
